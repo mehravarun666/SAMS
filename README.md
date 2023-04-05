@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-
-![Login   Signup screen](https://user-images.githubusercontent.com/108194170/230123808-b80d9a1f-d2af-45b3-a82c-7e739c2a9d58.jpg
+![Login   Signup screen](https://user-images.githubusercontent.com/108194170/230173282-892f403d-4c91-4670-a74b-32a3a14af8ba.jpg)
 
 
